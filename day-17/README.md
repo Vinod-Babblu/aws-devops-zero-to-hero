@@ -36,9 +36,10 @@ Now, let's explore some real-world use cases to better understand how AWS Lambda
 
 3. **Scheduled Data Backups**: Use Lambda to create scheduled tasks for backing up data from one storage location to another, ensuring data resilience and disaster recovery.
 
-   **practical is available in python zero to hero series Aws boto3**
+   
 
 5. **Real-Time Analytics**: Lambda can process streaming data from IoT devices, social media, or other sources, allowing you to perform real-time analytics and gain insights instantly.
 
 6. **API Backends**: Develop scalable API backends for web and mobile applications using Lambda. It automatically handles the incoming API requests and executes the corresponding functions.
 
+**practical is available in python zero to hero series Aws boto3**
